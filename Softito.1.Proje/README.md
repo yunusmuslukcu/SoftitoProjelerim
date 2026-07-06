@@ -1,1 +1,4 @@
-Softito Eğitimi içerisinde geliştirdiğim ilk projemdir bir code first yaklaşımı kullanılan kütüphane admin projesidir.
+1)C# .NET Core MVC
+2)Entity Framework Core
+3)MS SQL Server
+4)ASP.NET Core Identity (EF Core store, cookie-based authentication, account lockout policy, token-based password reset)
